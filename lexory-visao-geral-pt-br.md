@@ -38,11 +38,6 @@ A ideia é simples: **ler mais**, com menos fricção, e transformar a leitura e
   - Guardar documentos na biblioteca.
   - Reabrir documentos facilmente e continuar de onde parou.
 
-## O que o Lexory NÃO é (expectativas honestas)
-- Não é um “tradutor de PDF perfeito” que mantém 100% do layout original.
-- PDFs escaneados/imagens podem ter limitações (quando não há texto selecionável).
-- Traduções automáticas podem variar em qualidade conforme idioma e contexto.
-
 ## Privacidade e dados
 - O Lexory **não precisa** enviar seu documento inteiro para traduzir uma palavra/frase.
 - Apenas o **texto selecionado** (a palavra/frase) é enviado para o endpoint de tradução.
@@ -58,8 +53,4 @@ A ideia é simples: **ler mais**, com menos fricção, e transformar a leitura e
 - Use **seleção** para frases.
 - Vá salvando traduções importantes para revisar depois.
 
----
 
-Se você quiser, eu também posso:
-- Ajustar este texto para virar **copy da landing page** (mais persuasivo, com CTA).
-- Criar uma versão curta (1 minuto de leitura) para onboarding dentro do app.
