@@ -38,11 +38,6 @@ The goal is to keep you in the reading flow: fewer context switches, more readin
   - Store documents in your library.
   - Re-open documents easily and keep reading progress.
 
-## What Lexory is NOT (honest expectations)
-- It’s not a “perfect PDF translator” that preserves every layout.
-- Scanned/image-only PDFs can be limited (when there’s no selectable text).
-- Machine translation quality varies by language and context.
-
 ## Privacy and data
 - Lexory doesn’t need to upload your whole document to translate a word or phrase.
 - Only the **selected text** is sent to the translation endpoint.
@@ -58,8 +53,4 @@ The goal is to keep you in the reading flow: fewer context switches, more readin
 - Use **selection** for phrases.
 - Save the translations you want to review later.
 
----
 
-If you want, I can also:
-- Rewrite this as **landing-page copy** (more persuasive, with CTAs).
-- Create a shorter “1-minute overview” for in-app onboarding.
